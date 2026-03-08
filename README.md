@@ -2,7 +2,16 @@
 
 ###
 
-<p align="left">Atualmente estou cursando segundo semestre em Análise e Desenvolvimento de Sistemas.<br><br>Estou em busca de uma vaga para desenvolvedor. <br><br>Nos meus primeiros anos programando eu estudava por conta própria. Foquei bastante em lógica de programação com exercícios em Javascript, porém a faculdade ampliou a minha visão da carreira de um profissional, podendo me aprofundar cada vez mais. Hoje quero melhorar minhas habilidades e me encaixar no mercado para continuar evoluindo.</p>
+<p align="left">## About me
+
+Atualmente estou no último semestre do curso de Análise e Desenvolvimento de Sistemas e tenho direcionado meus estudos para o desenvolvimento backend.
+
+Tenho focado no aprendizado de tecnologias como Java e Spring Boot, desenvolvendo APIs REST e aplicando boas práticas de desenvolvimento como arquitetura em camadas, uso de DTOs, tratamento de exceções, validação de dados e testes automatizados.
+
+Ao longo da minha formação venho construindo projetos práticos para consolidar esses conhecimentos, incluindo APIs documentadas com Swagger e testes unitários utilizando JUnit e Mockito.
+
+Estou em busca de uma oportunidade como desenvolvedor para aplicar meus conhecimentos em projetos reais, continuar evoluindo tecnicamente e contribuir com soluções eficientes na área de tecnologia.
+.</p>
 
 ###
 
