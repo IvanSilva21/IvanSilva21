@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">## About me
+<p align="left">About me
 
 Atualmente estou no último semestre do curso de Análise e Desenvolvimento de Sistemas e tenho direcionado meus estudos para o desenvolvimento backend.
 
